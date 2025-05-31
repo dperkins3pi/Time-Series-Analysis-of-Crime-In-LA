@@ -1,2 +1,5 @@
-# Time-Series-Analysis-of-Crime-In-LA
-We analyze crime data in Los Angeles to identify trends, seasonal patterns, and factors influencing crime volume. We decompose the time series into trend, seasonal, and residual components. Additionally, an autoregressive Integrated Moving Average (ARIMA) model is used to predict future crime trends.
+# Project Abstract
+Crime is a complex societal issue that impacts communities and individuals, requiring thoughtful analysis to inform effective policymaking. In this project, we analyze crime data in Los Angeles to
+identify trends, seasonal patterns, and factors influencing crime volume. Using a dataset containing millions of crime records from 2020 onward, we clean and structure the data for time series modeling. We decompose the time series into trend, seasonal, and residual components to better understand long-term patterns. An Autoregressive Integrated Moving Average (ARIMA) model is used to predict future crime trends. Additionally, we explore demographic factors associated with crime volume and type, highlighting correlations without implying causation. Our analysis reveals significant seasonal patterns, demographic disparities, and age-related disparities, providing insights that could guide policymaking and resource allocation by law enforcement and public safety officials
+
+For more information, refer to [our paper](CrimeSeriesPaper.pdf)
